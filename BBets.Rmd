@@ -115,5 +115,8 @@ After multiple attempts 28.3 was the closest to the mean of 0, however you canno
 
 # Discussion and Conclusion
 
+This exercise shows how manipulating the odds can lead to varying results and that not all problems can be solved by something like num solved by cat.  This exercised ran multiple simulations to come to a conclusion about data.
+
+
 <!--Discussion and conclusion here.  If professor Brownlow is consistantly making or losing money how could he change his payout so that his profits center on zero?  Also discuss what size his class should be in order to have his current scheme balance at zero profit.!-->
 
